@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rwxrob/prompt"
+	"github.com/rwxrob/prompt-go"
 )
 
 func main() {

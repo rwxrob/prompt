@@ -1,4 +1,4 @@
-module github.com/rwxrob/prompt
+module github.com/rwxrob/prompt-go
 
 go 1.16
 

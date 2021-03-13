@@ -3,7 +3,7 @@ package prompt_test
 import (
 	"fmt"
 
-	"github.com/rwxrob/prompt"
+	"github.com/rwxrob/prompt-go"
 )
 
 func ExamplePlain() {
